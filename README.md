@@ -11,7 +11,7 @@ npx create-react-app sample-react-jsf
 ```
 This process will install the create-react-app module and further start creating a development bed for us to start with react works readily.
 
-With the above being down - Next is to start the development activity.
+With the above being done - Next is to start the development activity.
 
 In this example - We have used - useState and useEffect which are two important hooks in React that help manage state and side effects in functional components.
 
